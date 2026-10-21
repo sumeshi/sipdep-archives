@@ -9,7 +9,7 @@ This repository contains posters, cheat sheets, and reference materials related 
 
 | Title | Description | Download |
 |---|---|---|
-| How Do You Investigate Windows Event Logs? | A quick reference to Windows Event IDs for forensic investigations and incident response. | [en]([ja](posters/windows-eventlog-analysis-101-en.pdf)) / [ja](posters/windows-eventlog-analysis-101-ja.pdf) |
+| How Do You Investigate Windows Event Logs? | A quick reference to Windows Event IDs for forensic investigations and incident response. | [en](posters/windows-eventlog-analysis-101-en.pdf)) / [ja](posters/windows-eventlog-analysis-101-ja.pdf) |
 
 ![winevt-poster-en](https://github.com/user-attachments/assets/b1484862-32d3-442c-bdc4-950d0be3c482)
 
